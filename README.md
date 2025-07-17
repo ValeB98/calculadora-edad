@@ -22,4 +22,4 @@ La aplicación te permite seleccionar tu fecha de nacimiento y calcular tu edad 
 ## Nota
 
 Este proyecto también lo dejé tal como lo hice en su momento, como parte de mi aprendizaje.  
-Todo el JavaScript está dentro del HTML, y el diseño aún no es responsive, pero para mí fue un logro muy especial y me emociona compartirlo así como está. 💛
+Todo el JavaScript está dentro del HTML, y el diseño aún no es responsive de forma elaborada, pero para mí fue un logro muy especial y me emociona compartirlo así como está. 💛
